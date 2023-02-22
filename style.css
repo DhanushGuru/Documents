@@ -1,0 +1,54 @@
+.outer{
+    display: flex;
+    height: 350px;
+    width: 500;
+    border: 2px solid black;
+   
+}
+
+.one{
+    margin-top: 130px; 
+    height:220px;
+     width: 80px;
+    background-color: black ;
+    margin-right: 25px;
+
+}
+ 
+ .two{
+     margin-bottom: 0px;  
+     height:220px;
+     width: 80px;
+     background-color: black ;
+     margin-right: 25px;
+ 
+ }
+ .three{
+     margin-top:130px ;  
+     height:220px;
+     width: 80px;
+     background-color: black ;
+     margin-right: 25px;
+ 
+     
+     
+ }
+ .four{
+     margin-bottom: 0px;
+     height:220px;
+     width: 80px;
+     background-color: black ;
+     margin-right: 25px;
+ }
+    
+ 
+ .five{
+     margin-top: 130px;
+     height:220px;
+     width: 80px;
+     background-color: black ;
+ 
+     
+ }
+ 
+ 
